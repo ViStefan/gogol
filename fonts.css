@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Academy';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Academy'), local('Academy-Regular'), url(fonts/academy.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Academy';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Academy Italic'), local('Academy-Italic'), url(fonts/academy-italic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'B52';
+  font-style: normal;
+  font-weight: 400;
+  src: local('B52'), local('B52-Regular'), url(fonts/b52.ttf) format('truetype');
+}
+/*
+@font-face {
+  font-family: 'LC Chalk';
+  font-style: normal;
+  font-weight: 400;
+  src: local('LC Chalk'), local('LCChalk-Regular'), url(fonts/lc-chalk.ttf) format('truetype');
+}*/

@@ -1,0 +1,80 @@
+body {
+  margin-bottom: 0;
+  font-size: 1.4em;
+}
+
+#wrapper {
+  hyphens: auto;
+  margin-bottom: 3em;
+}
+
+.page {
+  font-family: 'Academy', times, serif;
+  white-space: normal;
+  vertical-align: bottom;
+  width: 22.5em;
+  margin: 0 auto;
+  padding: 7ex 4ex 0 4ex;
+}
+
+.title {
+  text-align: center;
+  margin: 9em auto 3em auto;
+}
+
+.subtitle {
+  text-align: center;
+  font-style: italic;
+  margin: -2em auto 1em auto;
+}
+
+.chapter {
+  text-align: center;
+  letter-spacing: 0.2em;
+  font-variant: small-caps;
+  margin: 2em auto;
+}
+
+p {
+  margin: 0;
+  text-indent: 3ex;
+  text-align: justify;
+}
+
+p.break {
+  text-align-last: justify;
+}
+
+p.continue {
+  text-indent: 0 !important;
+}
+
+.pagination {
+  text-align: center;
+  padding: 1.5ex;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid black;
+  width: 1em;
+}
+
+.paper {
+  margin: 0 auto;
+  padding: 1em;
+  width: 22em;
+  overflow: hidden;
+  border-top: 1px solid black;
+  /*font-size: 1.5em;*/
+}
+
+#message {
+  font-size: 1em;
+  width: 100%;
+  font-family: 'B52', 'Courier', monospace;
+  height: 3em;
+  hyphens: auto;
+  border: none;
+  outline: none;
+}
